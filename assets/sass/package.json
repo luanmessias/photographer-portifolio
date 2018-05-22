@@ -1,0 +1,17 @@
+{
+  "name": "sass-jason",
+  "version": "1.0.0",
+  "description": "projeto pessoal fotografia",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "author": "Luan Messias",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ftp": "^2.1.0"
+  }
+}
