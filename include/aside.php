@@ -23,9 +23,9 @@
 
 
 	<ul class="per-card">
-		<li class="per-name">Jason Cardoso</li>
-		<li class="per-mail">contato@jasoncardoso.com.br</li>
-		<li class="per-phone">(11)2914-3290</li>
+		<li class="per-name">Photographer</li>
+		<li class="per-mail">contact@potographer.com</li>
+		<li class="per-phone">(11)9999-9999</li>
 	</ul>
 
 	<div class="social">
@@ -37,7 +37,7 @@
 	</div>
 
 	<div class="copyright">
-		<span>Jason Cardoso 2017 ©</span> <br>
+		<span>Potographer 2017 ©</span> <br>
 		<span>Todos os Direitos Reservados</span>
 		<br><br>
 		<span>Desenvolvido por Luan Messias</span>
